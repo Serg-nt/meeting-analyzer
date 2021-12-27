@@ -1,0 +1,11 @@
+.app-wrapper {
+    max-width: 800px;
+    min-height: 800px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-rows: 40px auto;
+}
+
+.app-wrapper-content {
+    background: url("./assets/image/Background-18 copy.jpeg");
+}

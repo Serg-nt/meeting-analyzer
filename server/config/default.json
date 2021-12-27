@@ -1,0 +1,4 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://auth:auth@meeting.ctxai.mongodb.net/meetingAnalyzer?retryWrites=true&w=majority"
+}
